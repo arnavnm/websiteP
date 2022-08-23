@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f9d834d.css",
+    "main.js": "/static/js/main.80e6775b.js",
+    "static/js/415.fc063c41.chunk.js": "/static/js/415.fc063c41.chunk.js",
+    "static/js/787.f6e65957.chunk.js": "/static/js/787.f6e65957.chunk.js",
+    "static/media/AlmostGods.png": "/static/media/AlmostGods.2600cb6f11309baf6da2.png",
+    "static/media/NLP.png": "/static/media/NLP.699485a3a7d7fd52a5bd.png",
+    "static/media/main.jpg": "/static/media/main.78e58bc07781983cf8a6.jpg",
+    "static/media/Boston_University_seal.png": "/static/media/Boston_University_seal.8fd2fb62002b36364bf3.png",
+    "static/media/Snake.png": "/static/media/Snake.7282a0e5a2a9f20882fc.png",
+    "static/media/logo.png": "/static/media/logo.49cfca5279284fec951c.png",
+    "static/media/Sched.png": "/static/media/Sched.04694d8c6ff99b0707b2.png",
+    "static/media/figmaIcon.png": "/static/media/figmaIcon.4c8a8a3a35aae14779bb.png",
+    "static/media/pre.svg": "/static/media/pre.af30bc60b561edd2aef2.svg",
+    "index.html": "/index.html",
+    "main.0f9d834d.css.map": "/static/css/main.0f9d834d.css.map",
+    "main.80e6775b.js.map": "/static/js/main.80e6775b.js.map",
+    "415.fc063c41.chunk.js.map": "/static/js/415.fc063c41.chunk.js.map",
+    "787.f6e65957.chunk.js.map": "/static/js/787.f6e65957.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f9d834d.css",
+    "static/js/main.80e6775b.js"
+  ]
+}
